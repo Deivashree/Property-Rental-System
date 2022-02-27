@@ -1,0 +1,10 @@
+Admin,Admin,Admin,Admin
+Admin,Admin1,Admin12,Admin123
+Tenant,John,Johnx,Johnxx
+Tenant,Niki,Niki2,Niki22
+Owner,Tan,Tan1,Tan12
+Owner,Sam,Sam Lim,Sam2
+Owner,Ali,Ali3,Ali33
+Agent,Brian,Brian Ng,Brian12
+Agent,James,James5,James55
+Agent,Mickey,Mickey9,Mickey9
